@@ -1,7 +1,7 @@
 # Netflix-Movies-TV-Shows-Analysis
 This project analyzes the Netflix Movies and TV Shows dataset to uncover insights about content distribution, genres, and trends over time. The analysis is done using Python (EDA + Visualization) and Tableau (Interactive Dashboard).
 
-Dataset: Netflix Movies and TV Shows (Kaggle)
+Dataset: Netflix Movies and TV Shows (Kaggle link https://www.kaggle.com/datasets/shivamb/netflix-shows)
 Size: ~8,800 titles
 Features: type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
